@@ -41,6 +41,7 @@ gap: 32px;
     border-top: 0.4px solid #fdfdfd; 
 }
 .conteudo-principal {
+    
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -69,6 +70,7 @@ gap: 32px;
 }
 
 .conteudo-principal-escrito-botao{
+    cursor: pointer;
     background-color: #fdfdfd;
     width:  180px;
     height: 60px;
